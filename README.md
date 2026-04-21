@@ -1,5 +1,4 @@
-# ARTI308-Lab8
-Lab 8: K Nearest Neighbors
+# ARTI308-Lab 8: K Nearest Neighbors
 ---------------------------
 
 # KNN Project
